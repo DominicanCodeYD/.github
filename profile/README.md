@@ -35,5 +35,5 @@
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
            </p>
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DAREALYTYGRUNN1NGARK456&show_icons=true&theme=dark&locale=en" alt="flaringphoenix" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DominicanCodeYD&show_icons=true&theme=dark&locale=en" alt="flaringphoenix" /></p>
  </center>
